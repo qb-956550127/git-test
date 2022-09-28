@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * 处理登录业务gitceshibranch--master-branch--back
  * 处理登录业务gitceshibranch--master-branch-pull
- * gayaozi--ganiyaozi-https--ssh
+ * gayaozi--ganiyaozi-https--ssh--gitssh
  */
 @Controller
 public class LoginController {
