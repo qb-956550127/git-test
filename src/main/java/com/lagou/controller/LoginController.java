@@ -5,7 +5,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * 处理登录业务gitceshibranch--master-branch
+ * 处理登录业务gitceshibranch--master-branch-pull
  */
 @Controller
 public class LoginController {
